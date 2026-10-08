@@ -1,0 +1,12 @@
+div.componente {
+    border: 1px solid black;
+    padding: 5px;
+    margin: 10px;
+    float: left;
+    max-width: 315px;
+}
+
+div.componente img {
+    width: 300px;
+    padding-top: 5px;
+}
